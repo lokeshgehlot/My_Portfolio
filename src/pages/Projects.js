@@ -17,9 +17,9 @@ function Projects() {
       </div>
 
       <div className="project-card">
-        <h3>Weather App</h3>
+        <h3>Movie Explorer</h3>
         <p>
-          A simple React app that fetches live weather data using a public API and displays temperature, humidity, and forecast by city.
+          Movie Explorer is a React web app that lets users browse popular movies, search by title, and add favorites. It uses the TMDB API for real-time movie data and features a clean UI built with React hooks and context for smooth state management and a seamless user experience.
         </p>
         <p><strong>Tech Stack:</strong> React, API Integration, CSS</p>
         <a href="https://github.com/yourusername/weather-app" target="_blank" rel="noopener noreferrer">GitHub</a>
