@@ -22,7 +22,7 @@ function Projects() {
           Movie Explorer is a React web app that lets users browse popular movies, search by title, and add favorites. It uses the TMDB API for real-time movie data and features a clean UI built with React hooks and context for smooth state management and a seamless user experience.
         </p>
         <p><strong>Tech Stack:</strong> React, API Integration, CSS</p>
-        <a href="https://github.com/yourusername/weather-app" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="https://github.com/lokeshgehlot/Movie-explorer" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
     </section>
   );
